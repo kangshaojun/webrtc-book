@@ -1,0 +1,19 @@
+{
+  //预制套件
+  "presets": [
+    //处理转译需求
+    "@babel/preset-env",
+    //处理react
+    "@babel/preset-react"
+  ],
+  //插件
+  "plugins": [
+    "@babel/plugin-transform-runtime",
+    "@babel/plugin-proposal-class-properties",
+    ["import", {
+      "libraryName": "antd",
+      "libraryDirectory": "es",
+      "style": "css"
+    }]
+  ]
+}

@@ -1,0 +1,38 @@
+#项目名称
+name: app_samples
+#项目描述
+description: A new Flutter application.
+#版本
+version: 1.0.0+1
+
+#环境
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+#依赖库
+dependencies:
+  flutter:
+    sdk: flutter
+
+  #icon图标库
+  cupertino_icons: ^0.1.2
+  #webrtc插件
+  flutter_webrtc: ^0.2.6
+  #本地共享变量库app
+  shared_preferences:
+  #本地共享变量库web
+  shared_preferences_web:
+  #http网络请求库
+  http: ^0.12.0+4
+
+  #MediaRecorder使用的库
+  path_provider:
+
+#开发依赖库
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  #使用material风格
+  uses-material-design: true

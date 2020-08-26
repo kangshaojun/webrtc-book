@@ -1,0 +1,29 @@
+.item{
+    display:flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+  }
+  
+  /*左侧*/
+  .item-left{
+    width:80px;
+    text-align: right;
+    color:rgba(0, 0, 0, 0.65);
+    line-height: 32px;
+    font-size: 14px;
+    font-weight: normal;
+  }
+  /*右侧*/
+  .item-right{
+    flex:1;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  
+  /*video容器*/
+  .video-container{
+    width:240px;
+    height:180px;
+    background-color: #000000;
+    margin-top: 20px;
+  }
