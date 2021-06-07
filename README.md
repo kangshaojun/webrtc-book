@@ -10,7 +10,8 @@
 QQ:283796665<br>
 微信:kangshaojun888
 
-[![slack](https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=brightgreen)](https://pion.ly/slack)
+[![slack](https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=brightgreen)](https://join.slack.com/t/kangshaojun/shared_invite/zt-riffsdox-jDe6AWhisMMeSC5Hx2bNMQ)
+
 
 # 图书封面
 <img src="https://raw.githubusercontent.com/kangshaojun/webrtc-book/master/screenshots/book_v1.png"/>
