@@ -3,7 +3,7 @@
 WebRTC 一对一 多对多 P2P Mesh SFU 流媒体 视频会议等课程请关注<br>
 国内:[https://flutter.ke.qq.com](https://flutter.ke.qq.com)<br>
 海外:[https://kangshaojun.podia.com](https://kangshaojun.podia.com)<br>
-我的站点:[www.kangshaojun.com](www.kangshaojun.com)<br>
+我的站点:[http://www.kangshaojun.com](http://www.kangshaojun.com)<br>
 
 <br>
 
