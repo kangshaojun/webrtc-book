@@ -1,6 +1,10 @@
 # webrtc-book
 
-[WebRTC视频教程请点击这里](http://www.kangshaojun.com/)
+WebRTC 一对一 多对多 P2P Mesh SFU 流媒体 视频会议等课程请关注<br>
+国内:[https://flutter.ke.qq.com](https://flutter.ke.qq.com)<br>
+海外:[https://kangshaojun.podia.com](https://kangshaojun.podia.com)<br>
+我的站点:[www.kangshaojun.com](www.kangshaojun.com)<br>
+
 <br>
 
 # 作者简介
