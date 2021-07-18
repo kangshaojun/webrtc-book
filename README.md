@@ -2,7 +2,7 @@
 
 WebRTC 一对一 多对多 P2P Mesh SFU 流媒体 视频会议等课程请关注<br>
 [https://www.kangshaojun.com](https://www.kangshaojun.com)<br>
-[![](https://raw.githubusercontent.com/kangshaojun/webrtc-book/master/screenshots/study.png)](https://www.kangshaojun.com/posts/courses/)
+[![](https://www.kangshaojun.com/images/study.png)](https://www.kangshaojun.com/posts/courses/)
 <br>
 
 # 作者简介
