@@ -1,5 +1,5 @@
 package.json注释
-
+```json
 {
   //项目名称
   "name": "h5-samples",
@@ -68,3 +68,4 @@ package.json注释
     "js"
   ]
 }
+```
